@@ -1,0 +1,786 @@
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+550:Can't change directory to /folder: No such file or directory
+CWD:/
+250:OK. Current directory is /
+MKD:folder
+257:"folder" : The directory was successfully created
+CWD:/folder
+250:OK. Current directory is /folder
+PWD:
+257:"/folder" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,10,217,201,196
+200:PORT command successful
+MLSD:
+150:Connecting to port 51652
+$LOSS$LOGO
+226:Options: -a -l 
+PORT:172,26,10,217,201,197
+200:PORT command successful
+STOR:100_5212.JPG
+150:Connecting to port 51653
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,204
+200:PORT command successful
+STOR:100_5213.JPG
+150:Connecting to port 51660
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,211
+200:PORT command successful
+STOR:100_5216.JPG
+150:Connecting to port 51667
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,213
+200:PORT command successful
+STOR:100_5217.JPG
+150:Connecting to port 51669
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,218
+200:PORT command successful
+STOR:100_5219.JPG
+150:Connecting to port 51674
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,224
+200:PORT command successful
+STOR:100_5222.JPG
+150:Connecting to port 51680
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,226
+200:PORT command successful
+STOR:100_5224.JPG
+150:Connecting to port 51682
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,232
+200:PORT command successful
+STOR:100_5226.JPG
+150:Connecting to port 51688
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,235
+200:PORT command successful
+STOR:100_5227.JPG
+150:Connecting to port 51691
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,247
+200:PORT command successful
+STOR:100_5229.JPG
+150:Connecting to port 51703
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,2
+200:PORT command successful
+STOR:100_5233.JPG
+150:Connecting to port 51714
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,7
+200:PORT command successful
+STOR:100_5235.JPG
+150:Connecting to port 51719
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,12
+200:PORT command successful
+STOR:100_5237.JPG
+150:Connecting to port 51724
+$LOSS$LOGO
+226:File successfully transferred
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+250:OK. Current directory is /folder
+PWD:
+257:"/folder" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,10,217,201,198
+200:PORT command successful
+STOR:100_5211.JPG
+150:Connecting to port 51654
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,205
+200:PORT command successful
+STOR:100_5214.JPG
+150:Connecting to port 51661
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,210
+200:PORT command successful
+STOR:100_5215.JPG
+150:Connecting to port 51666
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,214
+200:PORT command successful
+STOR:100_5218.JPG
+150:Connecting to port 51670
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,219
+200:PORT command successful
+STOR:100_5220.JPG
+150:Connecting to port 51675
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,223
+200:PORT command successful
+STOR:100_5221.JPG
+150:Connecting to port 51679
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,225
+200:PORT command successful
+STOR:100_5223.JPG
+150:Connecting to port 51681
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,231
+200:PORT command successful
+STOR:100_5225.JPG
+150:Connecting to port 51687
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,241
+200:PORT command successful
+STOR:100_5228.JPG
+150:Connecting to port 51697
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,248
+200:PORT command successful
+STOR:100_5230.JPG
+150:Connecting to port 51704
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,250
+200:PORT command successful
+STOR:100_5231.JPG
+150:Connecting to port 51706
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,201,255
+200:PORT command successful
+STOR:100_5232.JPG
+150:Connecting to port 51711
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,3
+200:PORT command successful
+STOR:100_5234.JPG
+150:Connecting to port 51715
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,8
+200:PORT command successful
+STOR:100_5236.JPG
+150:Connecting to port 51720
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,13
+200:PORT command successful
+STOR:100_5238.JPG
+150:Connecting to port 51725
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,18
+200:PORT command successful
+STOR:100_5239.JPG
+150:Connecting to port 51730
+$LOSS$LOGO
+226:File successfully transferred
+CWD:/
+250:OK. Current directory is /
+PWD:
+257:"/" is your current location
+PORT:172,26,10,217,202,24
+200:PORT command successful
+MLSD:
+150:Connecting to port 51736
+$LOSS$LOGO
+226:Options: -a -l 
+PORT:172,26,10,217,202,46
+200:PORT command successful
+STOR:folder.tar.gz
+150:Connecting to port 51758
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,77
+200:PORT command successful
+MLSD:
+150:Connecting to port 51789
+$LOSS$LOGO
+226:Options: -a -l 
+CWD:/folder
+250:OK. Current directory is /folder
+PORT:172,26,10,217,202,109
+200:PORT command successful
+RETR:100_5239.JPG
+150:Connecting to port 51821
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,114
+200:PORT command successful
+RETR:100_5237.JPG
+150:Connecting to port 51826
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,120
+200:PORT command successful
+RETR:100_5234.JPG
+150:Connecting to port 51832
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,124
+200:PORT command successful
+RETR:100_5232.JPG
+150:Connecting to port 51836
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,128
+200:PORT command successful
+RETR:100_5230.JPG
+150:Connecting to port 51840
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,142
+200:PORT command successful
+RETR:100_5227.JPG
+150:Connecting to port 51854
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,155
+200:PORT command successful
+RETR:100_5225.JPG
+150:Connecting to port 51867
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,163
+200:PORT command successful
+RETR:100_5223.JPG
+150:Connecting to port 51875
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,164
+200:PORT command successful
+RETR:100_5222.JPG
+150:Connecting to port 51876
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,165
+200:PORT command successful
+RETR:100_5221.JPG
+150:Connecting to port 51877
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,182
+200:PORT command successful
+RETR:100_5216.JPG
+150:Connecting to port 51894
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,187
+200:PORT command successful
+RETR:100_5214.JPG
+150:Connecting to port 51899
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,10,217,202,189
+200:PORT command successful
+RETR:100_5213.JPG
+150:Connecting to port 51901
+$LOSS$LOGO
+226:File successfully transferred
+CWD:/
+250:OK. Current directory is /
+PORT:172,26,10,217,202,204
+200:PORT command successful
+RETR:folder.tar.gz
+150:Connecting to port 51916
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+SYST:
+215:UNIX Type: L8
+FEAT:
+211:Extensions supported:
+PWD:
+257:"/" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,12,32,132,50
+200:PORT command successful
+MLSD:
+150:Connecting to port 33842
+$LOSS$LOGO
+226:Options: -a -l 
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+550:Can't change directory to /folder: No such file or directory
+CWD:/
+250:OK. Current directory is /
+MKD:folder
+257:"folder" : The directory was successfully created
+CWD:/folder
+250:OK. Current directory is /folder
+PWD:
+257:"/folder" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,12,32,211,214
+200:PORT command successful
+MLSD:
+150:Connecting to port 54230
+$LOSS$LOGO
+226:Options: -a -l 
+PORT:172,26,12,32,140,233
+200:PORT command successful
+STOR:100_5219.JPG
+150:Connecting to port 36073
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,169,217
+200:PORT command successful
+STOR:100_5228.JPG
+150:Connecting to port 43481
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,175,229
+200:PORT command successful
+STOR:100_5236.JPG
+150:Connecting to port 45029
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,151,102
+200:PORT command successful
+STOR:100_5224.JPG
+150:Connecting to port 38758
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,219,56
+200:PORT command successful
+STOR:100_5230.JPG
+150:Connecting to port 56120
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,155,23
+200:PORT command successful
+STOR:100_5239.JPG
+150:Connecting to port 39703
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,215,0
+200:PORT command successful
+STOR:100_5214.JPG
+150:Connecting to port 55040
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,184,188
+200:PORT command successful
+STOR:100_5229.JPG
+150:Connecting to port 47292
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,187,226
+200:PORT command successful
+STOR:100_5218.JPG
+150:Connecting to port 48098
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,173,250
+200:PORT command successful
+STOR:100_5216.JPG
+150:Connecting to port 44538
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,197,58
+200:PORT command successful
+STOR:100_5234.JPG
+150:Connecting to port 50490
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,177,207
+200:PORT command successful
+STOR:100_5233.JPG
+150:Connecting to port 45519
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,222,56
+200:PORT command successful
+STOR:100_5226.JPG
+150:Connecting to port 56888
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,228,142
+200:PORT command successful
+STOR:100_5238.JPG
+150:Connecting to port 58510
+$LOSS$LOGO
+226:File successfully transferred
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+250:OK. Current directory is /folder
+PWD:
+257:"/folder" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,12,32,163,132
+200:PORT command successful
+STOR:100_5225.JPG
+150:Connecting to port 41860
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,170,31
+200:PORT command successful
+STOR:100_5211.JPG
+150:Connecting to port 43551
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,199,160
+200:PORT command successful
+STOR:100_5227.JPG
+150:Connecting to port 51104
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,226,60
+200:PORT command successful
+STOR:100_5220.JPG
+150:Connecting to port 57916
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,134,205
+200:PORT command successful
+STOR:100_5231.JPG
+150:Connecting to port 34509
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,182,174
+200:PORT command successful
+STOR:100_5232.JPG
+150:Connecting to port 46766
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,204,96
+200:PORT command successful
+STOR:100_5222.JPG
+150:Connecting to port 52320
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,193,236
+200:PORT command successful
+STOR:100_5217.JPG
+150:Connecting to port 49644
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,221,127
+200:PORT command successful
+STOR:100_5221.JPG
+150:Connecting to port 56703
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,177,64
+200:PORT command successful
+STOR:100_5212.JPG
+150:Connecting to port 45376
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,235,80
+200:PORT command successful
+STOR:100_5213.JPG
+150:Connecting to port 60240
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,145,189
+200:PORT command successful
+STOR:100_5235.JPG
+150:Connecting to port 37309
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,224,217
+200:PORT command successful
+STOR:100_5223.JPG
+150:Connecting to port 57561
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,136,244
+200:PORT command successful
+STOR:100_5237.JPG
+150:Connecting to port 35060
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,232,100
+200:PORT command successful
+STOR:100_5215.JPG
+150:Connecting to port 59492
+$LOSS$LOGO
+226:File successfully transferred
+CWD:/
+250:OK. Current directory is /
+PWD:
+257:"/" is your current location
+PORT:172,26,12,32,140,56
+200:PORT command successful
+MLSD:
+150:Connecting to port 35896
+$LOSS$LOGO
+226:Options: -a -l 
+$LOSS$LOGO
+226:Logout.
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/
+250:OK. Current directory is /
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,12,32,175,22
+200:PORT command successful
+STOR:folder.tar.gz
+150:Connecting to port 44822
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,162,113
+200:PORT command successful
+MLSD:
+150:Connecting to port 41585
+$LOSS$LOGO
+226:Options: -a -l 
+CWD:/folder
+250:OK. Current directory is /folder
+PORT:172,26,12,32,229,148
+200:PORT command successful
+RETR:100_5239.JPG
+150:Connecting to port 58772
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,214,120
+200:PORT command successful
+RETR:100_5237.JPG
+150:Connecting to port 54904
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,233,89
+200:PORT command successful
+RETR:100_5236.JPG
+150:Connecting to port 59737
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,153,69
+200:PORT command successful
+RETR:100_5234.JPG
+150:Connecting to port 39237
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,211,91
+200:PORT command successful
+RETR:100_5233.JPG
+150:Connecting to port 54107
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,177,95
+200:PORT command successful
+RETR:100_5232.JPG
+150:Connecting to port 45407
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,176,78
+200:PORT command successful
+RETR:100_5231.JPG
+150:Connecting to port 45134
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,192,103
+200:PORT command successful
+RETR:100_5230.JPG
+150:Connecting to port 49255
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,179,251
+200:PORT command successful
+RETR:100_5229.JPG
+150:Connecting to port 46075
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,132,194
+200:PORT command successful
+RETR:100_5227.JPG
+150:Connecting to port 33986
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,191,112
+200:PORT command successful
+RETR:100_5226.JPG
+150:Connecting to port 49008
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,184,189
+200:PORT command successful
+RETR:100_5222.JPG
+150:Connecting to port 47293
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,159,101
+200:PORT command successful
+RETR:100_5221.JPG
+150:Connecting to port 40805
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,146,79
+200:PORT command successful
+RETR:100_5219.JPG
+150:Connecting to port 37455
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,229,109
+200:PORT command successful
+RETR:100_5218.JPG
+150:Connecting to port 58733
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,170,194
+200:PORT command successful
+RETR:100_5216.JPG
+150:Connecting to port 43714
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,238,66
+200:PORT command successful
+RETR:100_5212.JPG
+150:Connecting to port 60994
+$LOSS$LOGO
+226:File successfully transferred
+CWD:/
+250:OK. Current directory is /
+PORT:172,26,12,32,190,170
+200:PORT command successful
+RETR:folder.tar.gz
+150:Connecting to port 48810
+$LOSS$LOGO
+226:File successfully transferred
+$LOSS$LOGO
+226:Logout.
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+250:OK. Current directory is /folder
+TYPE:I
+200:TYPE is now 8-bit binary
+PORT:172,26,12,32,164,64
+200:PORT command successful
+RETR:100_5238.JPG
+150:Connecting to port 42048
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,182,60
+200:PORT command successful
+RETR:100_5235.JPG
+150:Connecting to port 46652
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,190,126
+200:PORT command successful
+RETR:100_5228.JPG
+150:Connecting to port 48766
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,228,90
+200:PORT command successful
+RETR:100_5225.JPG
+150:Connecting to port 58458
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,221,156
+200:PORT command successful
+RETR:100_5224.JPG
+150:Connecting to port 56732
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,199,55
+200:PORT command successful
+RETR:100_5223.JPG
+150:Connecting to port 50999
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,128,157
+200:PORT command successful
+RETR:100_5220.JPG
+150:Connecting to port 32925
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,181,44
+200:PORT command successful
+RETR:100_5217.JPG
+150:Connecting to port 46380
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,205,13
+200:PORT command successful
+RETR:100_5215.JPG
+150:Connecting to port 52493
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,136,107
+200:PORT command successful
+RETR:100_5214.JPG
+150:Connecting to port 34923
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,202,238
+200:PORT command successful
+RETR:100_5213.JPG
+150:Connecting to port 51950
+$LOSS$LOGO
+226:File successfully transferred
+PORT:172,26,12,32,190,99
+200:PORT command successful
+RETR:100_5211.JPG
+150:Connecting to port 48739
+$LOSS$LOGO
+226:File successfully transferred
+##########
+##########

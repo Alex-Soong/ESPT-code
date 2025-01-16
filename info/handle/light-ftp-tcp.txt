@@ -1,0 +1,173 @@
+$LOSS$LOGO
+220:LightFTP server ready
+USER:anonymous
+331:User anonymous OK. Password required
+PASS:
+501:Syntax error in parameters or arguments.
+EPSV:
+530:Please login with USER and PASS.
+PASV:
+530:Please login with USER and PASS.
+PORT:192,168,153,128,207,67
+530:Please login with USER and PASS.
+QUIT:
+221:Goodbye!
+##########
+$LOSS$LOGO
+220:LightFTP server ready
+USER:anonymous
+331:User anonymous OK. Password required
+$LOSS$LOGO
+501:Syntax error in parameters or arguments.
+EPRT:|1|192.168.153.128|48891|
+500:Syntax error, command unrecognized.
+PORT:192,168,153,128,190,251
+530:Please login with USER and PASS.
+QUIT:
+221:Goodbye!
+##########
+$LOSS$LOGO
+220:LightFTP server ready
+USER:anonymous
+331:User anonymous OK. Password required
+PASS:jjkkdfjikdf
+230:User logged in, proceed.
+SYST:
+215:UNIX Type: L8
+FEAT:
+211:-Extensions supported:### PASV### UTF8### TVFS### REST STREAM### SIZE### MLSD### AUTH TLS### PBSZ### PROT### EPSV###211 End.
+EPRT:|1|192.168.153.128|53969|
+500:Syntax error, command unrecognized.
+PORT:192,168,153,128,210,209
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+PORT:192,168,153,128,164,39
+200:Command okay.
+NLST:
+500:Syntax error, command unrecognized.
+TYPE:I
+200:Type set to I.
+SIZE:ubuntu18_data_test2.txt
+213:52
+PORT:192,168,153,128,187,15
+200:Command okay.
+RETR:ubuntu18_data_test2.txt
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+QUIT:
+221:Goodbye!
+##########
+$LOSS$LOGO
+220:LightFTP server ready
+USER:webadmin
+331:User webadmin OK. Password required
+PASS:Sss
+530:Invalid user name or password.
+QUIT:
+221:Goodbye!
+##########
+$LOSS$LOGO
+220:LightFTP server ready
+USER:webadmin
+331:User webadmin OK. Password required
+PASS:Strongadminpassword222
+230:User logged in, proceed.
+SYST:
+215:UNIX Type: L8
+FEAT:
+211:-Extensions supported:### PASV### UTF8### TVFS### REST STREAM### SIZE### MLSD### AUTH TLS### PBSZ### PROT### EPSV###211 End.
+EPRT:|1|192.168.153.128|59333|
+500:Syntax error, command unrecognized.
+PORT:192,168,153,128,231,197
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+MKD:admin_new_folder
+257:Directory created.
+PORT:192,168,153,128,150,37
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+PORT:192,168,153,128,146,129
+200:Command okay.
+LIST:-al
+550:File or directory unavailable.
+PORT:192,168,153,128,130,183
+200:Command okay.
+NLST:
+500:Syntax error, command unrecognized.
+PORT:192,168,153,128,156,43
+200:Command okay.
+NLST:
+500:Syntax error, command unrecognized.
+CWD:admin_new_folder
+250:Requested file action okay, completed.
+PORT:192,168,153,128,216,77
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+TYPE:I
+200:Type set to I.
+PORT:192,168,153,128,218,23
+200:Command okay.
+STOR:data_test2_LiFtp.txt
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+QUIT:
+221:Goodbye!
+##########
+$LOSS$LOGO
+220:LightFTP server ready
+USER:uploader
+331:User uploader OK. Password required
+PASS:Weakuploaderpassword111
+230:User logged in, proceed.
+SYST:
+215:UNIX Type: L8
+FEAT:
+211:-Extensions supported:### PASV### UTF8### TVFS### REST STREAM### SIZE### MLSD### AUTH TLS### PBSZ### PROT### EPSV###211 End.
+EPRT:|1|192.168.153.128|35053|
+500:Syntax error, command unrecognized.
+PORT:192,168,153,128,136,237
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+MKD:uploader_new_folder
+257:Directory created.
+PORT:192,168,153,128,233,181
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+PORT:192,168,153,128,161,247
+200:Command okay.
+NLST:
+500:Syntax error, command unrecognized.
+CWD:uploader_new_folder
+250:Requested file action okay, completed.
+PORT:192,168,153,128,218,125
+200:Command okay.
+LIST:
+150:File status okay; about to open data connection.
+$LOSS$LOGO
+226:Transfer complete. Closing data connection.
+TYPE:I
+200:Type set to I.
+QUIT:
+221:Goodbye!
+##########
+##########

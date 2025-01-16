@@ -1,0 +1,552 @@
+$LOSS$LOGO
++OK:Welcome to coremail Mail Pop3 Server (126coms[6c62234a7721d45811debf430915950ds])
+USER:Az6161@126.com
++OK:core mail
+PASS:MUQSAOSTXITFJCUEas
+-ERR:Unable to log on
+USER:Az6161@126.com
++OK:core mail
+PASS:MUQSAOSTXITFJCUE
++OK:11 message(s) [801033 byte(s)]
+CAPA:
++OK:Capability list follows
+STAT:
++OK:11 801033
+LIST:1
++OK:1 72946
+LIST:2
++OK:2 72941
+LIST:3
++OK:3 72944
+LIST:4
++OK:4 72944
+LIST:5
++OK:5 72946
+LIST:6
++OK:6 72944
+LIST:7
++OK:7 72951
+LIST:8
++OK:8 72951
+LIST:9
++OK:9 72951
+LIST:10
++OK:10 72408
+LIST:11
++OK:11 72107
+LIST:12
+-ERR:Unknown message
+LIST:
++OK:11 801033
+NOOP:
++OK:core mail
+UIDL:
++OK:11 801033
+UIDL:1
++OK:1 1tbitAauilpEBmDpfwAAs4
+UIDL:2
++OK:2 1tbitBKuilpEBmDr-AAAst
+UIDL:3
++OK:3 1tbiEwOuilpD+VrVbQAAs2
+UIDL:4
++OK:4 1tbi6xKuilpD8xRSGAAAsp
+UIDL:5
++OK:5 1tbiFheuilpECC9TTAAAsD
+UIDL:6
++OK:6 1tbi6xeuilpD8xTbkgAAsv
+UIDL:7
++OK:7 1tbitQCuilpECFj2KgAAsD
+UIDL:8
++OK:8 1tbiEwOuilpD+VtpUgAAs0
+UIDL:9
++OK:9 1tbiEwiuilpD+Vts1AAAs8
+UIDL:10
++OK:10 1tbikhiuilpEBbmzqAAAsX
+UIDL:11
++OK:11 1tbitBauilpEBmHTPwAAsT
+TOP:1 10
++OK:72946 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:2 10
++OK:72941 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:3 10
++OK:72944 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:4 10
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:5 10
++OK:72946 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:6 10
++OK:72944 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:7 10
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:8 10
++OK:72951 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:9 10
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:10 10
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:11 10
++OK:72107 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+TOP:12 10
+-ERR:Unknown message
+RETR:1
++OK:72946 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:2
++OK:72941 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:3
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:4
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:5
++OK:72946 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:6
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:7
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:8
++OK:72951 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:9
++OK:72951 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:10
++OK:72408 octets
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:11
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+content
+$LOSS$LOGO
+RETR:12
+-ERR:Unknown message
+QUIT:
++OK:core mail
+##########
+##########

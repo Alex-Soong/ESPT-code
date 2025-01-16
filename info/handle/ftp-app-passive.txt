@@ -1,0 +1,701 @@
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+SYST:
+215:UNIX Type: L8
+FEAT:
+211:Extensions supported:
+PWD:
+257:"/" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PASV:
+227:Entering Passive Mode (194,181,15,25,214,121)
+MLSD:
+150:Accepted data connection
+$LOSS$LOGO
+226:Options: -a -l 
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+250:OK. Current directory is /folder
+TYPE:I
+200:TYPE is now 8-bit binary
+PASV:
+227:Entering Passive Mode (194,181,15,25,208,129)
+STOR:100_5225.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,199,133)
+STOR:100_5227.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,203,45)
+STOR:100_5220.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,208,84)
+STOR:100_5231.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,195,179)
+STOR:100_5230.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,196,57)
+STOR:100_5239.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,195,131)
+STOR:100_5214.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,195,247)
+STOR:100_5229.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,243)
+STOR:100_5212.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,200,157)
+STOR:100_5213.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,127)
+STOR:100_5233.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,211,56)
+STOR:100_5226.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,206,253)
+STOR:100_5238.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+CWD:/
+250:OK. Current directory is /
+PWD:
+257:"/" is your current location
+PASV:
+227:Entering Passive Mode (194,181,15,25,197,101)
+MLSD:
+150:Accepted data connection
+$LOSS$LOGO
+226:Options: -a -l 
+PASV:
+227:Entering Passive Mode (194,181,15,25,198,69)
+STOR:folder.tar.gz
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,201,203)
+MLSD:
+150:Accepted data connection
+$LOSS$LOGO
+226:Options: -a -l 
+CWD:/folder
+250:OK. Current directory is /folder
+PASV:
+227:Entering Passive Mode (194,181,15,25,211,158)
+RETR:100_5239.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,208,104)
+RETR:100_5237.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,209,218)
+RETR:100_5225.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,203,89)
+RETR:100_5223.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,201,220)
+RETR:100_5221.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,207,114)
+RETR:100_5218.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+CWD:/
+250:OK. Current directory is /
+PASV:
+227:Entering Passive Mode (194,181,15,25,213,38)
+RETR:folder.tar.gz
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+$LOSS$LOGO
+226:Logout.
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+550:Can't change directory to /folder: No such file or directory
+CWD:/
+250:OK. Current directory is /
+MKD:folder
+257:"folder" : The directory was successfully created
+CWD:/folder
+250:OK. Current directory is /folder
+PWD:
+257:"/folder" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PASV:
+227:Entering Passive Mode (194,181,15,25,205,251)
+MLSD:
+150:Accepted data connection
+$LOSS$LOGO
+226:Options: -a -l 
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,148)
+STOR:100_5219.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,204,54)
+STOR:100_5211.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,210,80)
+STOR:100_5228.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,213,205)
+STOR:100_5236.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,214,161)
+STOR:100_5224.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,209,33)
+STOR:100_5232.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,213,37)
+STOR:100_5222.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,59)
+STOR:100_5217.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,200,89)
+STOR:100_5221.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,198,252)
+STOR:100_5218.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,203,124)
+STOR:100_5216.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,212,22)
+STOR:100_5234.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,214,116)
+STOR:100_5235.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,213,210)
+STOR:100_5223.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,199,4)
+STOR:100_5237.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,210,123)
+STOR:100_5215.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+250:OK. Current directory is /folder
+TYPE:I
+200:TYPE is now 8-bit binary
+PASV:
+227:Entering Passive Mode (194,181,15,25,197,59)
+RETR:100_5238.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,195,137)
+RETR:100_5236.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,200,200)
+RETR:100_5235.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,214,216)
+RETR:100_5234.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,91)
+RETR:100_5233.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,198,253)
+RETR:100_5232.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,22)
+RETR:100_5231.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,210,163)
+RETR:100_5230.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,205,6)
+RETR:100_5229.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,204,46)
+RETR:100_5228.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,212,10)
+RETR:100_5227.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,211,119)
+RETR:100_5226.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,199,165)
+RETR:100_5224.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,207,74)
+RETR:100_5222.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,201,7)
+RETR:100_5220.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,203,22)
+RETR:100_5219.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,195,240)
+RETR:100_5217.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,213,251)
+RETR:100_5216.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,196,149)
+RETR:100_5215.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,213,66)
+RETR:100_5214.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,210,223)
+RETR:100_5213.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,208,216)
+RETR:100_5212.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,214,48)
+RETR:100_5211.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+SYST:
+215:UNIX Type: L8
+FEAT:
+211:Extensions supported:
+PWD:
+257:"/" is your current location
+TYPE:I
+200:TYPE is now 8-bit binary
+PASV:
+227:Entering Passive Mode (194,181,15,25,210,104)
+MLSD:
+150:Accepted data connection
+$LOSS$LOGO
+226:Options: -a -l 
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+$LOSS$LOGO
+220:Welcome to Pure-FTPd
+USER:fake@wlan.webd.pl
+331:User fake@wlan.webd.pl OK. Password required
+PASS:Elgayego0
+230:OK. Current restricted directory is /
+CWD:/folder
+250:OK. Current directory is /folder
+TYPE:I
+200:TYPE is now 8-bit binary
+PASV:
+227:Entering Passive Mode (194,181,15,25,207,81)
+RETR:100_5238.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,207,228)
+RETR:100_5237.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,196,37)
+RETR:100_5232.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,212,204)
+RETR:100_5231.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,207,69)
+RETR:100_5230.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,238)
+RETR:100_5229.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,199,7)
+RETR:100_5228.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,205,176)
+RETR:100_5223.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,204,146)
+RETR:100_5222.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,211,107)
+RETR:100_5221.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,212,202)
+RETR:100_5220.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,211,184)
+RETR:100_5219.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,202,88)
+RETR:100_5218.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,197,205)
+RETR:100_5217.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,203,193)
+RETR:100_5215.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,204,141)
+RETR:100_5213.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+PASV:
+227:Entering Passive Mode (194,181,15,25,212,108)
+RETR:100_5211.JPG
+150:Accepted data connection
+$LOSS$LOGO
+226:File successfully transferred
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
