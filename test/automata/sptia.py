@@ -164,8 +164,8 @@ class EsptiaTest:
 
 def check_main(handletext, protocol, level = 2, limit = 4):
     transducer = EsptiaTest(handletext, protocol)
-    # transducer.build_message_by_state(handletext, level, limit)
-    # transducer.guess_req_transition(handletext, level, limit)
+    transducer.build_message_by_state(handletext, level, limit)
+    transducer.guess_req_transition(handletext, level, limit)
     transducer.build_esptia(handletext)
 
 

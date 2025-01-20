@@ -12,7 +12,7 @@ use English;
 use strict;
 $WARNING=1;
 
-use lib '这里改一下/ESPT/daikon/wstdaikon/scripts';
+use lib '/home/song/codess/ESPT-code/daikon/wstdaikon/scripts';
 use Text::CSV;
 use Getopt::Long;
 use checkargs;
