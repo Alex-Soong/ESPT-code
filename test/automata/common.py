@@ -80,9 +80,9 @@ class TransducerTestWithoutMessage:
 
 class TransducerTest:
     def __init__(self, text, protocol):
-        self.text_road = '/home/ll/L/ZooForLessons/Senior/ESPT/info/handle/'
-        self.svg_road = '/home/ll/L/ZooForLessons/Senior/ESPT/info/picsvg/'
-        self.test_road = '/home/ll/L/ZooForLessons/Senior/ESPT/info/test/automata/common/'
+        self.text_road = '/home/song/codess/ESPT-code/info/handle/'
+        self.svg_road = '/home/song/codess/ESPT-code/info/picsvg/'
+        self.test_road = '/home/song/codess/ESPT-code/info/test/automata/common/'
         self.messages = build_message_seqs(f'{self.text_road}{text}.txt')
         self.handletext = text
         self.protocol = protocol
