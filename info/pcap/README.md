@@ -1,0 +1,1 @@
+将文件复制到`ESPT/info/pcap/`文件夹下，并在`os_manager.py`中配置绝对路径。
