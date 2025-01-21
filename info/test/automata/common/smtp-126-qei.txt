@@ -1,9 +1,9 @@
 Text: smtp-126
 Level: 2
 
-Start: 1737378756.6171134
-Finish: 1737378756.765572
-Spend: 0.14845871925354004
+Start: 1737450578.5418587
+Finish: 1737450578.690324
+Spend: 0.14846539497375488
 loss_give: 0.0326
 loss_reap: 0.103
 acc_give: 0.9758
@@ -12,20 +12,20 @@ acc_reap: 0.9472
 rec_give: 1.0
 rec_reap: 1.0
 ##########
-Start: 1737378756.7761095
-Finish: 1737378756.946413
-Spend: 0.1703035831451416
-loss_give: 0.0245
-loss_reap: 0.0908
-acc_give: 0.9883
-acc_reap: 0.9559
+Start: 1737450578.7003999
+Finish: 1737450578.8413692
+Spend: 0.14096927642822266
+loss_give: 0.0362
+loss_reap: 0.0714
+acc_give: 0.9728
+acc_reap: 0.9643
 
 rec_give: 1.0
-rec_reap: 0.9947
+rec_reap: 1.0
 ##########
-Start: 1737378756.9570196
-Finish: 1737378757.1237867
-Spend: 0.16676712036132812
+Start: 1737450578.8522916
+Finish: 1737450579.0168762
+Spend: 0.16458463668823242
 loss_give: 0.0333
 loss_reap: 0.0892
 acc_give: 0.9753
@@ -34,42 +34,42 @@ acc_reap: 0.9555
 rec_give: 1.0
 rec_reap: 1.0
 ##########
-Start: 1737378757.1339703
-Finish: 1737378757.336505
-Spend: 0.20253467559814453
-loss_give: 0.0079
-loss_reap: 0.0812
+Start: 1737450579.026357
+Finish: 1737450579.2252214
+Spend: 0.19886445999145508
+loss_give: 0.008
+loss_reap: 0.0813
 acc_give: 1.0
 acc_reap: 0.9602
 
 rec_give: 1.0
 rec_reap: 1.0
 ##########
-Start: 1737378757.3480952
-Finish: 1737378757.5090582
-Spend: 0.1609630584716797
+Start: 1737450579.2354994
+Finish: 1737450579.3916376
+Spend: 0.15613818168640137
 loss_give: 0.1679
-loss_reap: 0.2313
+loss_reap: 0.2312
 acc_give: 0.8752
 acc_reap: 0.8637
 
 rec_give: 1.0
 rec_reap: 0.999
 ##########
-Start: 1737378757.5120976
-Finish: 1737378757.6936615
-Spend: 0.1815638542175293
-loss_give: 0.0285
-loss_reap: 0.1287
-acc_give: 0.9989
-acc_reap: 0.9068
+Start: 1737450579.3946996
+Finish: 1737450579.5391114
+Spend: 0.14441180229187012
+loss_give: 0.1236
+loss_reap: 0.1481
+acc_give: 0.9079
+acc_reap: 0.9079
 
 rec_give: 1.0
 rec_reap: 1.0
 ##########
-Start: 1737378757.6998851
-Finish: 1737378757.8432372
-Spend: 0.14335203170776367
+Start: 1737450579.5453274
+Finish: 1737450579.690633
+Spend: 0.14530563354492188
 loss_give: 0.1397
 loss_reap: 0.2342
 acc_give: 0.8763
@@ -78,34 +78,34 @@ acc_reap: 0.8689
 rec_give: 1.0
 rec_reap: 1.0
 ##########
-Start: 1737378757.8456848
-Finish: 1737378758.054304
-Spend: 0.2086191177368164
-loss_give: 0.0992
-loss_reap: 0.242
-acc_give: 0.9028
+Start: 1737450579.692936
+Finish: 1737450579.8452384
+Spend: 0.15230250358581543
+loss_give: 0.1208
+loss_reap: 0.2511
+acc_give: 0.8904
 acc_reap: 0.8682
 
 rec_give: 1.0
 rec_reap: 1.0
 ##########
-Start: 1737378758.056803
-Finish: 1737378758.2257204
-Spend: 0.16891741752624512
+Start: 1737450579.8475416
+Finish: 1737450580.022521
+Spend: 0.17497944831848145
 loss_give: 0.1098
-loss_reap: 0.1436
+loss_reap: 0.241
 acc_give: 0.8975
 acc_reap: 0.8654
 
 rec_give: 0.9947
 rec_reap: 0.9824
 ##########
-Start: 1737378758.2281525
-Finish: 1737378758.4327247
-Spend: 0.20457220077514648
-loss_give: 0.11
-loss_reap: 0.0988
-acc_give: 0.8923
+Start: 1737450580.0248725
+Finish: 1737450580.1660662
+Spend: 0.14119362831115723
+loss_give: 0.1271
+loss_reap: 0.2252
+acc_give: 0.8837
 acc_reap: 0.8837
 
 rec_give: 1.0
