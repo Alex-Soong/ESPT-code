@@ -1,0 +1,113 @@
+Text: smtp-126
+Level: 2
+
+Start: 1737378756.6171134
+Finish: 1737378756.765572
+Spend: 0.14845871925354004
+loss_give: 0.0326
+loss_reap: 0.103
+acc_give: 0.9758
+acc_reap: 0.9472
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1737378756.7761095
+Finish: 1737378756.946413
+Spend: 0.1703035831451416
+loss_give: 0.0245
+loss_reap: 0.0908
+acc_give: 0.9883
+acc_reap: 0.9559
+
+rec_give: 1.0
+rec_reap: 0.9947
+##########
+Start: 1737378756.9570196
+Finish: 1737378757.1237867
+Spend: 0.16676712036132812
+loss_give: 0.0333
+loss_reap: 0.0892
+acc_give: 0.9753
+acc_reap: 0.9555
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1737378757.1339703
+Finish: 1737378757.336505
+Spend: 0.20253467559814453
+loss_give: 0.0079
+loss_reap: 0.0812
+acc_give: 1.0
+acc_reap: 0.9602
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1737378757.3480952
+Finish: 1737378757.5090582
+Spend: 0.1609630584716797
+loss_give: 0.1679
+loss_reap: 0.2313
+acc_give: 0.8752
+acc_reap: 0.8637
+
+rec_give: 1.0
+rec_reap: 0.999
+##########
+Start: 1737378757.5120976
+Finish: 1737378757.6936615
+Spend: 0.1815638542175293
+loss_give: 0.0285
+loss_reap: 0.1287
+acc_give: 0.9989
+acc_reap: 0.9068
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1737378757.6998851
+Finish: 1737378757.8432372
+Spend: 0.14335203170776367
+loss_give: 0.1397
+loss_reap: 0.2342
+acc_give: 0.8763
+acc_reap: 0.8689
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1737378757.8456848
+Finish: 1737378758.054304
+Spend: 0.2086191177368164
+loss_give: 0.0992
+loss_reap: 0.242
+acc_give: 0.9028
+acc_reap: 0.8682
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1737378758.056803
+Finish: 1737378758.2257204
+Spend: 0.16891741752624512
+loss_give: 0.1098
+loss_reap: 0.1436
+acc_give: 0.8975
+acc_reap: 0.8654
+
+rec_give: 0.9947
+rec_reap: 0.9824
+##########
+Start: 1737378758.2281525
+Finish: 1737378758.4327247
+Spend: 0.20457220077514648
+loss_give: 0.11
+loss_reap: 0.0988
+acc_give: 0.8923
+acc_reap: 0.8837
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
