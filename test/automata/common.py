@@ -201,12 +201,13 @@ class TransducerTest:
 
 def check_main(text, protocol, level = 2, check_text = None):
     transducer = TransducerTest(text, protocol)
-    transducer.seek_state()
-    transducer.build_rules()
-    transducer.quality_evaluation_indicator(level, check_text)
-    transducer.build_message_by_state()
+    # transducer.seek_state()
+    # transducer.build_rules()
+    # transducer.quality_evaluation_indicator(level, check_text)
+    # transducer.build_message_by_state()
     transducer.build_esptiail(text, level)
 
 
 if __name__ == '__main__':
     check_main('smtp-126', 'smtp')
+    # check_main('live555-rtsp', 'live555')
