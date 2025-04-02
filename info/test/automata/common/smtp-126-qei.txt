@@ -1,0 +1,113 @@
+Text: smtp-126
+Level: 2
+
+Start: 1743476111.8743012
+Finish: 1743476126.0894437
+Spend: 14.215142488479614
+loss_give: 0.0073
+loss_reap: 0.1045
+acc_give: 0.9929
+acc_reap: 0.9401
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1743476126.1091871
+Finish: 1743476135.6481638
+Spend: 9.538976669311523
+loss_give: 0.0363
+loss_reap: 0.0715
+acc_give: 0.9717
+acc_reap: 0.9632
+
+rec_give: 1.0
+rec_reap: 0.9989
+##########
+Start: 1743476135.6697195
+Finish: 1743476149.6047735
+Spend: 13.935054063796997
+loss_give: 0.0075
+loss_reap: 0.0886
+acc_give: 1.0
+acc_reap: 0.9555
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1743476149.6244798
+Finish: 1743476161.7476683
+Spend: 12.123188495635986
+loss_give: 0.008
+loss_reap: 0.0923
+acc_give: 0.9926
+acc_reap: 0.9528
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1743476161.7681603
+Finish: 1743476172.9143236
+Spend: 11.14616322517395
+loss_give: 0.0374
+loss_reap: 0.2068
+acc_give: 0.9947
+acc_reap: 0.8585
+
+rec_give: 1.0
+rec_reap: 0.999
+##########
+Start: 1743476172.9212017
+Finish: 1743476182.3119996
+Spend: 9.390797853469849
+loss_give: 0.1236
+loss_reap: 0.1481
+acc_give: 0.9079
+acc_reap: 0.9079
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1743476182.3250198
+Finish: 1743476192.9059591
+Spend: 10.580939292907715
+loss_give: 0.1397
+loss_reap: 0.2274
+acc_give: 0.8763
+acc_reap: 0.8689
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1743476192.9097342
+Finish: 1743476207.550912
+Spend: 14.641177654266357
+loss_give: 0.0977
+loss_reap: 0.1365
+acc_give: 0.8954
+acc_reap: 0.9164
+
+rec_give: 1.0
+rec_reap: 1.0
+##########
+Start: 1743476207.5547829
+Finish: 1743476218.8925285
+Spend: 11.337745666503906
+loss_give: 0.1098
+loss_reap: 0.241
+acc_give: 0.8975
+acc_reap: 0.8654
+
+rec_give: 0.9947
+rec_reap: 0.9824
+##########
+Start: 1743476218.8963501
+Finish: 1743476227.7804234
+Spend: 8.884073257446289
+loss_give: 0.1271
+loss_reap: 0.2252
+acc_give: 0.8837
+acc_reap: 0.8837
+
+rec_give: 1.0
+rec_reap: 1.0
+##########

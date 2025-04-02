@@ -1,14 +1,20 @@
 aprogram.point:::POINT
 a0
-"rtsp://192.168.153.129:8554/Vedios/ShanHai.mkv/"
+"rtsp://192.168.153.129:8554/Vedios/ShanHai.mkv/track1"
 1
 a1
-"CSeq: 17"
+"CSeq: 4"
 1
 a2
-"000022B8"
+"RTP/AVP;unicast;client_port=54212-54213"
 1
 b0
-"CSeq: 17"
+"CSeq: 4"
+1
+b1
+"RTP/AVP;unicast;destination=192.168.153.1;source=192.168.153.129;client_port=54212-54213;server_port=6970-6971"
+1
+b2
+"000022B8;timeout=65"
 1
 

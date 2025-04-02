@@ -16,3 +16,11 @@ b0
 java.lang.String
 java.lang.String
 1
+b1
+java.lang.String
+java.lang.String
+1
+b2
+java.lang.String
+java.lang.String
+1
